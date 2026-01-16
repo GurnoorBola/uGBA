@@ -1,6 +1,6 @@
 # Ultra GameBoy Advance
 
-A ultra fast GameBoy Advance emulator that aims to faithfully emulate the GBA, GB, and GBC systems, while also providing experimental features to darastically improve performance.
+A ultra fast GameBoy Advance emulator that aims to faithfully emulate the GBA, GB, and GBC systems, while also providing experimental features to greatly improve performance.
 
 ## Why
 * While there are plenty of great options for GBA emulation out there uGBA aims to be as simple as possible for users while delivering features that would otherwise require some tinkering or understanding the Game Boy systems
