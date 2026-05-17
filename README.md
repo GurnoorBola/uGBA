@@ -5,7 +5,7 @@ A ultra fast GameBoy Advance emulator that aims to faithfully emulate the GBA, G
 ## Why
 * While there are plenty of great options for GBA emulation out there uGBA aims to be as simple as possible for users while delivering features that would otherwise require some tinkering or understanding the Game Boy systems
 * To learn more about performance optimization and reverse engineering
-* And most importantly because making emulators is fun! (highly reccomend)
+* And most importantly because making emulators is fun! (highly recommend)
 
 ## Goals
 * Hardware-accurate emulation of the Game Boy systems
